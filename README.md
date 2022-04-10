@@ -1,5 +1,4 @@
-# Linear_Regression
-#K-Nearest
+# Linear_Regression     K-Nearest
 
 term regression is used when you try to find the relationship between variables.
 
