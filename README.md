@@ -1,4 +1,4 @@
-# Linear_Regression  &   K-Nearest & 
+# Linear_Regression  &   K-Nearest & K-Means Clustering
 
 term regression is used when you try to find the relationship between variables.
 
